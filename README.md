@@ -46,7 +46,9 @@ Here are some examples of what I build:
 
 ## 📫 Contact Me
 - **Email:** ahmedekramalsada@gmail.com  
-- **LinkedIn:** *(add your profile link)*
+- **LinkedIn:** www.linkedin.com/in/ahmedekramalsada
+
+
 
 ---
 
